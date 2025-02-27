@@ -1,7 +1,8 @@
 ## Hi there 👋
 i am  Matgaret Njenga a computer programming student
-i am venturing into the programming field in order to impact a hand into the global world 
-you can contact me at njengalcy.gmail.com.
+my goal and interests that have drawn mw into venturing into programming i want to know how to code and play a hand in the global society 
+currently i have studied HTML and CSS and Js script language i have worked on some self researched projects which were not successful due to lack of enough knowledge on codding
+You can contact me through my email njengalcy@gmail.com.
 <!--
 **B-hub-tech/B-hub-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
